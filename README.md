@@ -47,8 +47,6 @@ HandTracking-DangerDetection/
 │── requirements.txt
 └── README.md
 
-yaml
-Copy code
 
 ---
 
