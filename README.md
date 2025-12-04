@@ -58,8 +58,9 @@ Copy code
 
 ### 1️⃣ Install Dependencies
 
-```bash
 pip install -r requirements.txt
+
+
 2️⃣ Run the Application
 bash
 Copy code
